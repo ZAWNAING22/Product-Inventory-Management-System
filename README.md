@@ -141,7 +141,7 @@ The app will be available at `http://localhost:3000`.
 _Add screenshots or a short demo GIF of the app here to make the repo more compelling for recruiters._
 
 ```
-![Dashboard](docs/screenshot-dashboard.png)
+![Dashboard](./docs/screenshot-dashboard.png)
 ```
 
 ---
